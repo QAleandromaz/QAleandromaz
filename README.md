@@ -11,6 +11,8 @@ Olá Sou o Leandro
 - 📚 Behavior Driven Development (BDD)
 - 🔎 Teste de performance
 
+  
+
 
  Frameworks de automação
  
@@ -18,6 +20,10 @@ Olá Sou o Leandro
 - 🤖 Selenium Web Driver
 - 🤖 Playwright
 - 🤖 RobotFramework
+- 🤖 Cypress
+
+
+  
 
 
 Soft skill
